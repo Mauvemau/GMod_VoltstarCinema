@@ -1,11 +1,11 @@
 
 MYSQL = {}
 
-DATABASE_HOST 		= "vs-db.cvnvkmdqkat7.us-east-2.rds.amazonaws.com"
+DATABASE_HOST 		= "your_database_hostname"
 DATABASE_PORT 		= 3306
-DATABASE_NAME 		= "pdata"
-DATABASE_USERNAME	= "admin"
-DATABASE_PASSWORD	= "wVS9VYrSSw"
+DATABASE_NAME 		= "your_database_name"
+DATABASE_USERNAME	= "your_database_username"
+DATABASE_PASSWORD	= "your_database_password"
 
 local MySQLOO = require( "mysqloo" )
 db_offline = true
