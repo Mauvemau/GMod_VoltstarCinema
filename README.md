@@ -2,6 +2,7 @@
 A custom F4 menu for Garry's Mod.
 
 This menu includes:
+
 ● A Profile display with;
 - Playtime counter.
 - Inventory System.
