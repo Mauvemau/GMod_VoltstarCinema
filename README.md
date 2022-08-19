@@ -24,6 +24,8 @@ This menu includes:
 ● Bonuses:
 - Custom Tab Menu with effects.
 - Roles with colors for the chat.
+- AFK system.
+- Few other bonuses for Cinema Gamemode.
 
 [!] This requires MYSQLOO and a working database in order to function correctly.
 
