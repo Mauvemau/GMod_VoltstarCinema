@@ -2,12 +2,12 @@
 A custom F4 menu for Garry's Mod.
 
 This menu includes:
-● Profile display.
-● Playtime counter.
-● Inventory System.
-● Achievement System.
-● XP and Leveling System.
-● Discord, Steam Group link buttons.
+● A Profile display with;
+- Playtime counter.
+- Inventory System.
+- Achievement System.
+- XP and Leveling System.
+- Discord, Steam Group link buttons.
 
 ● A Shop System with;
 - Currency and Credits system.
