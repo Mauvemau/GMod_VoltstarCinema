@@ -26,6 +26,7 @@ This menu includes:
 - Roles with colors for the chat.
 
 [!] This requires MYSQLOO and a working database in order to function correctly.
+
 [!] Required Steam Workshop content:
 https://steamcommunity.com/sharedfiles/filedetails/?id=118824086
 https://steamcommunity.com/sharedfiles/filedetails/?id=2292037621
