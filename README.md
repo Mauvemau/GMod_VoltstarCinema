@@ -4,7 +4,7 @@ A custom F4 menu for Garry's Mod.
 
 This menu includes:
 
-● A Profile display with;
+● A Profile tab with;
 - Playtime counter.
 - Inventory System.
 - Achievement System.
@@ -12,14 +12,14 @@ This menu includes:
 - Discord, Steam Group link buttons.
 
 
-● A Shop System with;
+● A Shop tab with;
 - Currency and Credits system.
 - Coupon redeem system.
 - Playermodel, Items and Accessory purchase categories.
 - Admin menu for adding/removing items from the shop.
 
 
-● A Wardrobe System with;
+● A Wardrobe tab with;
 - Playermodel Selector.
 - Bodygroups Editor.
 - Colors Editor. (You can also change the color of the menu).
